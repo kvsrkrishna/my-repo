@@ -1,0 +1,123 @@
+# my-repo
+Venkata Srirama Krishna Kodi
+
+Summary:
+•	Having over Total 6 Years of experience in Leading Application Development, Enhancement, Implementation and Integration of client-server and web based applications in Transportation and Revenue Management based industry.
+•	Expert level skills in developing applications using Core JAVA, Servlets, JSP, REST-services, Spring Framework,  and Hibernate.
+•	Having Very Good Understanding of Java Design Patterns, Object Oriented Programming concepts, including use-case diagrams, class diagrams, sequence diagrams, Agile Process.
+
+Skill Sets: 
+Programming Languages:	Core JAVA, XML, XSLT, SQL
+J2EE Technologies:		Servlets, JSP, Spring Framework,  Hibernate, Java REST services,
+                                             	Wicket, Quartz, Java Scripting, Angular JS
+IDE Tools:			Eclipse, Sql Developer (For Database)
+Web Servers:			Apache Tomcat 6/7, JBoss
+Operating Systems:		Windows 9x/XP/2007/10,Linux
+Process Tools:			JIRA
+Database:			Oracle, MySQL
+Processes:			Waterfall, Agile
+Source Control:			SVN, GIT
+Big Data:			Hadoop
+Virtualization Tools:		VM Ware Workstation, NX Client
+
+Education:
+Bachelor of Technology in Electronics and communications, JNTU-Kakinada	2010
+
+Awards and Reorganization: Best Employee for two quarters
+
+Work Experience:
+Astrazeneca	Jul 2015 – Jun 2017
+Sr. Member Technical Staff
+Project: Managed Care Module in Revenue Management system product.      
+Objective: Managed Care Organizations (MCOs) are non-government payers who attempt to efficiently manage the Healthcare services and drug costs of Drug Manufacturer in US.
+We have a suite of products to manage the entire Managed Care business for our customers (Drug Manufacturers) which includes processing and validating the data submitted by PBMs to Manufacturers, separating valid lines from error lines, bucketing the lines to correct payments, calculating the rebate payments and making payments.
+Our Teams responsibility
+There are two products to handle the entire MC process:
+•	Script Validate
+•	Managed Care module
+As a team we were responsible for developing new features and enhancing the products to suit the ever changing landscape of US Healthcare and laws governing it.
+Responsibilities:
+•	Design and Implement Database Schemas.
+•	Write PL SQL procedures.
+•	Developed Rest Web services using spring 3.0
+•	Worked on development of service and Dao layers using spring IOC and Spring JDBC.
+•	Analysis Customer defects (Production) and provide appropriate fix for those.
+•	Did testing for new enhancements in my product area using Junit.
+•	Mentor junior team members and participate actively in release cycles with a sense of ownership
+Environment: Java 1.7, Linux, Windows 10, Oracle DB,  Tomcat 8,  Spring, REST WebService,  MVC.
+
+UPRR (Union Pacific Rail Roads)	Aug 2014 – Jul 2015
+Senior Software Engineer
+Project: Netcontrol Track Outgate Management. 
+Track Outage Management (TOM) is a tool to update train schedules based on issues that restrict traffic flow on the track network. Each outage is referred to as an incident. One incident can impact zero to many trains. Incidents can be created and edited by dispatchers, corridor managers using the user interface. External systems such as the Mechanical Defect Reporting (MDR), or General Track Scheduler (GTS) can create or edit incidents using services. An incident is entered for a particular location (called the impact location) and period of time (called the incident window). The key concepts associated with TOM are discussed below. 
+Track Outgate Management has 3 types of incidents: Normal will search for trains traveling through the impact location during the specified window of time, and apply delays to the train schedules so that the train will not depart till the outage is resolved. Incidents are entered when they are currently occurring or recently happened. Basically allows the user to record the reason for an outage, but will not search for or impact any trains Maintenance of Way (MOW) a planned outage that can start in the past or the future. These are outages due to work on the track. 
+Responsibilities:
+•	Did the development using agile methodology following spring planning, stand up meetings and daily evening SCRUM calls.
+•	Designed UI application using wicket framework. 
+•	Created shared components and service DUs using maven to manage dependencies and build lifecycle. 
+•	Implemented TDD process by writing test cases using TestNG and Mockito and generated test reports using cobertura plugin. 
+•	Designed UI application using Angular Js and Spring Rest. 
+•	Created maven projects as jobs in Sonar and Jenkins to view test coverage and fixing violation of coding standards. 
+•	Done static code analysis using Sonar tool to identify potential problems in code. Upon getting System Requirement/ User Stories and found out the impacts of the requirement on the Design and Development and gave the estimation of the projects and creating tasks for each user stories.
+•	Providing Project Estimation in Agile Process.
+•	Reviewed codes which are developed by team
+•	Worked with QA team to fix QA defect and test case analysis.
+•	Mentoring Team Members.
+•	Active involvement in recruitment process of the Company.
+Environment: JDK1.6, Wicket, Spring IOC, Spring JMS, Spring JDBC, SQL, Maven, Quartz, Jenkins, Jibx, Eclipse 4.2, Angular Js, Rest Services, Sonar, SVN, TestNG and Mockito.
+
+UPRR (Union Pacific Rail Roads)	Aug 2013 – Aug 2014
+Software Engineer
+Project: Equipment Reservation 
+Intermodal drayage carriers will log into a secure web application TSD where they will be able to submit request for equipment.  Equipment requests will be consolidated into a single request to the equipment provider.  The equipment provider will fulfill the equipment requests.  TSD will automatically assign equipment back to the dray carriers where dray carriers will have the ability to view their fulfilled requests.
+Responsibilities:
+•	Involved in Sprint Planning of project for creating user stories.
+•	Estimation, design process of user stories.
+•	Implemented agile process for development and followed daily scrum.
+•	Mentoring junior members in the team in development process.
+•	Development of various modules and writing test cases using Junit by following TDD.
+•	Ensuring smooth delivery of the project.
+•	Developing Java, Spring, Hibernate, SQL/HQL code using Eclipse, 
+•	Did Unit Testing (Use of J- Unit Testing).
+Environment:  JDK1.6, Wicket, Spring AOP, Spring JMS, Spring JDBC, Hibernate,Oracle10.0, Maven, Quartz, XMF, Jibx, Eclipse3.3 and SVN.
+
+UPRR (Union Pacific Rail Roads)	Nov 2011 – Aug 2013
+Software Engineer
+Project: Transportation Supplier Dashboard (TSD)
+UPDS maintains clear communication with all of its transportation suppliers regardless of the services they perform.  UPDS developed the Transportation Supplier Dashboard (TSD) to facilitate two-way information sharing between UPDS and the carrier.  TSD is used to tender loads to Intermodal, Carrier Services and carload solutions drayage carriers.  Drays can also fill out the details as they pertain to a shipment and report shipment events.  In addition, drays can also invoice UPDS for the services rendered.
+Responsibilities:
+•	Interacting with the client to understand the project and finalize its scope.
+•	Followed agile methodology with scrum technique.
+•	Bug fixing and maintenance of the product.
+•	Worked on development Web application using Wicket and Spring IOC and Spring JDBC and Hibernate.
+•	Followed TDD process, writing test case for covering different scenarios for the service and Dao layer.
+•	Coordinating with other teams working on the same project
+•	Web services , SQL/HQL code using Eclipse, 
+•	Did Unit Testing (Use of J- Unit Testing).
+•	Reviewed codes which are developed by team members.
+•	Worked with Tier1 Production Support Team for analysing production issues, provided work around for those issued and plan for the fix in patch or next production releases.
+•	JDK1.6, Wicket, Spring AOP, spring JMS, Spring JDBC, 
+•	Hibernate, Oracle10.0, Maven, Quartz, XMF, Jibx , Eclipse3.3
+Environment: JDK1.6, Wicket, Spring AOP, Spring JMS, Spring JDBC, Hibernate,Oracle10.0, Maven, Quartz, XMF, Jibx , Eclipse3.3 and SVN.
+ 
+UPRR (Union Pacific Rail Roads)	 Jul 2011 – Nov 2011
+Jr. Software Engineer
+Project: Financial Transaction Management (FTM) 
+The goal of the FTM project will be to identify and collect revenue earned by UP but not collected. 
+Once the areas are identified where revenue is being missed three things will happen:
+•	Immediately start the process of collecting the revenue.
+•	Put in a temporary process to continue identifying and collecting for   the issue.
+•	Find the appropriate place to modify a system to address the issue.
+•	To collect the information about the revenue from various systems and various databases.
+•	Nightly processes (Jobs) will automatically trigger the process to collect the information.
+Responsibilities:
+•	Interacting with the client periodically for gathering the requirements for enhancements and for application knowledge transfer.
+•	Involved in Requirement Analysis and Study, High-level design, Low-level design and documentation.
+•	Design and Code the application as per the requirements by quality standards.
+•	Development of new features with TDD using Junit.
+•	Involved in different stages of Agile Methodologies in application development.
+•	Involved in daily scrum calls.
+Environment:  JDK1.6, Wicket, Spring AOP, spring JMS, Spring JDBC, Hibernate,Oracle10.0, Maven, Quartz,   XMF, Jibx , Eclipse3.3 and SVN.
+
+
+
