@@ -1,0 +1,3 @@
+The main purpose of AFS amortization application is to calculate and register amortized daily profit or loss for the bonds which were bought at discount or premium. The daily profit and loss is only calculated in the relation to the purchase price. Any interest income or pricipal payments are not registered as part of this system.
+
+Additionally, AFS Application provide several reports for Finance, Strats and CIO trading desk.
